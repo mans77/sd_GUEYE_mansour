@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Roughness-Profiles xmlns="http://WKI/Roughness-Profiles/1">
+<Roughness-Profile>
+<id>-2</id>
+<surfaces>
+<surface>
+<A_towel,>an interstellar hitchhiker can have.</A_towel,>
+<1.0>3</1.0>
+</surface>
+</surfaces>
+</Roughness-Profile>
+<Roughness-Profile>
+<id>0</id>
+<surfaces>
+<surface>
+<A_towel,>massively useful thing </A_towel,>
+<1.0>123</1.0>
+</surface>
+</surfaces>
+</Roughness-Profile>
+<Roughness-Profile>
+<id>1337</id>
+<surfaces>
+<surface>
+<A_towel,>is about the most </A_towel,>
+<1.0>-1</1.0>
+</surface>
+</surfaces>
+</Roughness-Profile>
+<Roughness-Profile>
+<id>42</id>
+<surfaces>
+<surface>
+<A_towel,> it says, </A_towel,>
+<1.0>2.0</1.0>
+</surface>
+</surfaces>
+</Roughness-Profile>
+</Roughness-Profiles>
